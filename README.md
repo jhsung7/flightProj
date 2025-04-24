@@ -2,11 +2,9 @@
 
 ## Flight Delay Prediction Considering Network Effects - Junghyeon Sung (Group 30)
 
-- Parent paper's github link -> https://github.com/aravinda-1402/Flight_Delay_Prediction_using_Machine_Learning/tree/main
-
 ### 1. Dataset
 - Flight Delay and Cancellation Dataset 2019-2023 (https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)
-  - Since the file size is too big to upload in Github, please download the file from the kaggle and run the code. Thank you!
+  - Since the file size is too big to upload in Github, please download the file from the kaggle and run the code. Or you can download from the Canvas. Thank you!
 
 
 ### 2. Explanation of each column in the dataset
