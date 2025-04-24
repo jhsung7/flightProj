@@ -1,0 +1,15 @@
+catboost
+cartopy
+google-colab
+holidays
+lightgbm
+matplotlib
+networkx
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+shap
+tqdm
+xgboost
